@@ -13,7 +13,7 @@ int main(){
     cin >> br;
 
     i = 0;
-
+    
     while(i < n){
         cout << "Unesite " << (i+1) << " clan niza" << endl;
         cin >> x[i];
