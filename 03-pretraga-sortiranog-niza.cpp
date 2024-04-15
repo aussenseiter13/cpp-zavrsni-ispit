@@ -1,13 +1,5 @@
 /*
-    **** ZADATAK 3 ****
-
-    Provjeri da li uneseni string(rijec) sadrzi trazena slova
-
-    **** PRIMJER ****
-
-    Unesemo rijec: qwertguj
-    
-    Trazimo da li rijec sadrzi sekvencu slova: rtg
+    ZADATAK 4: Pretrazivanje sortiranog niza
 */
 
 #include <iostream>
