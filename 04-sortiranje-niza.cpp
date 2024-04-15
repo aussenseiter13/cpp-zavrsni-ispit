@@ -1,5 +1,5 @@
 /*
-    ZADATAK 4: Sortiranje niza od najveceg ka najmanjem
+    ZADATAK 4: Sortiranje niza od najveceg ka najmanjem sa ugradjenim metodama
 */
 
 #include <iostream>
