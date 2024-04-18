@@ -29,6 +29,11 @@ int main(){
 
     list<test> lista;
 
+    /*
+        Kod dodavanja char tipa podataka u strukturu dobro pazite
+        da koristite 'a' a ne "a" posto ce vam to izaciti gresku
+        jer sa 'a' vrsimo inicijalizaciju char tipa a sa "a" const char
+    */
     struct test a = {1, 'a', {1,2,3}};
     struct test b = {2, 'b', {4,5,6}};
     struct test c = {3, 'c', {7,8,9}};
